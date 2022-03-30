@@ -1,5 +1,5 @@
 # PHM-Society-2021
-Remaining Useful Life Estimation using Event Data ([link] (https://papers.phmsociety.org/index.php/phmconf/article/view/3055))
+Remaining Useful Life Estimation using Event Data (https://papers.phmsociety.org/index.php/phmconf/article/view/3055))
 
 The event data used in the paper which is generated using the CMAPSS data. Please cite these two papers if you use this data for any publications.
 
