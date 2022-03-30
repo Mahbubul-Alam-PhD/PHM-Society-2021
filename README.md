@@ -1,4 +1,8 @@
 # PHM-Society-2021
 Remaining Useful Life Estimation using Event Data (Submission No. 3055 to Annual Conference of the PHM Society 2021)
 
-The source code for the time series to event data generation process using C-MAPSS data as explained in the paper. The source codes and relevant materials will be uplaoded once the paper is published online. 
+The event data used in the paper which is generated using the CMAPSS data. Please cite these two papers if you use this data for any publications.
+
+[1] Alam, Mahbubul, Laleh Jalali, Dipanjan Ghosh, Ahmed Farahat, and Chetan Gupta. "Remaining Useful Life Estimation using Event Data." In Annual Conference of the PHM Society, vol. 13, no. 1. 2021.
+
+[2] Frederick, Dean K., Jonathan A. DeCastro, and Jonathan S. Litt. User's guide for the commercial modular aero-propulsion system simulation (C-MAPSS). No. E-16205. 2007.
